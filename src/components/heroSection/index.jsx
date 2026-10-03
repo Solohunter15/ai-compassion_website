@@ -148,7 +148,7 @@ export default function HeroSection() {
           <div className="flex flex-wrap items-center gap-3 sm:gap-3.5 pt-2">
             {/* Watch Live Now Button */}
             <a
-              href="https://www.youtube.com/live/O5U-Z1Aeirg?si=CFXNDhGDFr2Exgiq"
+              href="https://live.compassionai.io/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 sm:px-7 py-3.5 text-xs sm:text-sm font-bold tracking-wider uppercase text-[#F8F6F0] bg-[#163B32] hover:bg-[#0F2620] rounded-full shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
